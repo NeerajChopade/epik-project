@@ -1,2 +1,2 @@
 # epik-project
-Practice project by Ruah Tech
+ Project by Ruah Tech
